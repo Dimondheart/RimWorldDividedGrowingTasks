@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Divided Growing Tasks</name>
+  <author>Bryan Bettis</author>
+  <description>Divides growing into two jobs: Harvesting and Sowing.</description>
+  <targetVersion>0.17.1557</targetVersion>
+</ModMetaData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>Harvesting</defName>
+    <labelShort>Harvest</labelShort>
+    <pawnLabel>Harvester</pawnLabel>
+    <gerundLabel>Harvesting</gerundLabel>
+    <description>Harvest grown crops.</description>
+    <verb>Harvest</verb>
+    <naturalPriority>720</naturalPriority>
+    <requireCapableColonist>true</requireCapableColonist>
+    <relevantSkills>
+      <li>Growing</li>
+    </relevantSkills>
+    <workTags>
+      <li>ManualSkilled</li>
+      <li>PlantWork</li>
+    </workTags>
+  </WorkTypeDef>
+
+  <WorkTypeDef>
+    <defName>Sowing</defName>
+    <labelShort>Sow</labelShort>
+    <pawnLabel>Sower</pawnLabel>
+    <gerundLabel>Sowing</gerundLabel>
+    <description>Sow crops.</description>
+    <verb>Sow</verb>
+    <naturalPriority>710</naturalPriority>
+    <requireCapableColonist>true</requireCapableColonist>
+    <relevantSkills>
+      <li>Growing</li>
+    </relevantSkills>
+    <workTags>
+      <li>ManualSkilled</li>
+      <li>PlantWork</li>
+    </workTags>
+  </WorkTypeDef>
+
+  <WorkTypeDef>
+    <defName>Growing</defName>
+    <labelShort>Grow</labelShort>
+    <pawnLabel>Grower</pawnLabel>
+    <gerundLabel>Growing</gerundLabel>
+    <description>If you're seeing this then there's a bug with the Divided Growing Tasks mod.</description>
+    <verb>Grow</verb>
+    <naturalPriority>700</naturalPriority>
+    <visible>false</visible>
+    <requireCapableColonist>true</requireCapableColonist>
+    <relevantSkills>
+      <li>Growing</li>
+    </relevantSkills>
+    <workTags>
+      <li>ManualSkilled</li>
+      <li>PlantWork</li>
+    </workTags>
+  </WorkTypeDef>
+
+</WorkTypeDefs>
