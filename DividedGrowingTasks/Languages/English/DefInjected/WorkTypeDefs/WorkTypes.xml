@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Harvesting.labelShort>Harvest</Harvesting.labelShort>
+    <Harvesting.pawnLabel>Harvester</Harvesting.pawnLabel>
+    <Harvesting.gerundLabel>Harvesting</Harvesting.gerundLabel>
+    <Harvesting.description>Harvest grown crops.</Harvesting.description>
+    <Harvesting.verb>Harvest</Harvesting.verb>
+
+    <Sowing.labelShort>Sow</Sowing.labelShort>
+    <Sowing.pawnLabel>Sower</Sowing.pawnLabel>
+    <Sowing.gerundLabel>Sowing</Sowing.gerundLabel>
+    <Sowing.description>Sow crops.</Sowing.description>
+    <Sowing.verb>Sow</Sowing.verb>
+
+    <Growing.labelShort>Grow</Growing.labelShort>
+    <Growing.pawnLabel>Grower</Growing.pawnLabel>
+    <Growing.gerundLabel>Growing</Growing.gerundLabel>
+    <Growing.description>If you're seeing this then there's a bug with the Divided Growing Tasks mod.</Growing.description>
+    <Growing.verb>Grow</Growing.verb>
+
+</LanguageData>

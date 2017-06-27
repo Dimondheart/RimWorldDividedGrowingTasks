@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <GrowerHarvest.label>작물 수확</GrowerHarvest.label>
+    <GrowerHarvest.verb>수확</GrowerHarvest.verb>
+    <GrowerHarvest.gerund>수확</GrowerHarvest.gerund>
+
+    <GrowerSow.label>작물 파종</GrowerSow.label>
+    <GrowerSow.verb>파종</GrowerSow.verb>
+    <GrowerSow.gerund>파종</GrowerSow.gerund>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Harvesting.labelShort>수확</Harvesting.labelShort>
+    <Harvesting.pawnLabel>수확자</Harvesting.pawnLabel>
+    <Harvesting.gerundLabel>수확</Harvesting.gerundLabel>
+    <Harvesting.description>Harvest grown crops.</Harvesting.description>
+    <Harvesting.verb>수확</Harvesting.verb>
+
+    <Sowing.labelShort>파종</Sowing.labelShort>
+    <Sowing.pawnLabel>파종자</Sowing.pawnLabel>
+    <Sowing.gerundLabel>파종</Sowing.gerundLabel>
+    <Sowing.description>Sow crops.</Sowing.description>
+    <Sowing.verb>파종</Sowing.verb>
+
+    <Growing.labelShort>재배</Growing.labelShort>
+    <Growing.pawnLabel>재배자</Growing.pawnLabel>
+    <Growing.gerundLabel>재배</Growing.gerundLabel>
+    <Growing.description>If you're seeing this then there's a bug with the Divided Growing Tasks mod.</Growing.description>
+    <Growing.verb>재배</Growing.verb>
+
+</LanguageData>

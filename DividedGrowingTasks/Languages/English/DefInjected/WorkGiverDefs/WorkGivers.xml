@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
+    <GrowerHarvest.verb>harvest</GrowerHarvest.verb>
+    <GrowerHarvest.gerund>harvesting</GrowerHarvest.gerund>
+
+    <GrowerSow.label>sow crops</GrowerSow.label>
+    <GrowerSow.verb>sow</GrowerSow.verb>
+    <GrowerSow.gerund>sowing</GrowerSow.gerund>
+
+</LanguageData>
